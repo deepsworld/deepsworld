@@ -34,6 +34,9 @@
    </a>
    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=deepsworld&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12">
    <img alt="Last Update" src="https://img.shields.io/github/last-commit/deepsworld/deepsworld?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-   <img src="https://github-readme-stats.vercel.app/api?username=deepsworld&count_private=true&show_icons=true&count_private=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepsworld&count_private=true&show_icons=true&count_private=true">
 </p>
 

@@ -18,12 +18,13 @@
   </a>
   
   <a href="https://twitter.com/deepsworld1604">
-  <img src="https://img.shields.io/badge/Twitter-@deepsworld1604-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2">
+  <img src="https://img.shields.io/badge/Twitter-@deepsworld-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2">
   </a>
 </p>
 
 ---
 
+<p align="center">
 ### Github Stats
 
 <p>
@@ -35,3 +36,5 @@
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=deepsworld&count_private=true&show_icons=true&count_private=true)
+
+</p>

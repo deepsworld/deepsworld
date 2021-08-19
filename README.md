@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm Deep Patel </h1>
 <h3 align="center">Software Engineer</h3>
 
+
+<!-- 
 <br>
 
 <p align="center">
@@ -38,5 +40,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepsworld&count_private=true&show_icons=true&count_private=true">
-</p>
-
+</p> -->
